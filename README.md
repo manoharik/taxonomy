@@ -1,0 +1,1 @@
+This repository contains the files used for analysis of the attacks in identifying the risks associated with the attack. attacks(1).xlsx contains the attachs information. both database_access.py and taxonomy.py. references for the attcks are saved in reference-attack.ods
